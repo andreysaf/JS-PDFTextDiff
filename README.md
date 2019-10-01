@@ -3,7 +3,7 @@ Using [PDFTron's WebViewer SDK](https://www.pdftron.com/documentation/web), extr
 
 ![Screenshot](/files/screenshot.png)
 
-You can compare the PDFs from local file storage, sample files provided or two URLs.
+You can compare PDFs from local file storage, sample files provided or two URLs.
 
 ### Installing
 Download or clone repository, unzip and in terminal navigate to the unzipped folder. Inside of it run: 
