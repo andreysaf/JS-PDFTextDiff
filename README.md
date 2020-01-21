@@ -6,16 +6,13 @@ Using [PDFTron's WebViewer SDK](https://www.pdftron.com/documentation/web), extr
 You can compare PDFs from local file storage, sample files provided or two URLs.
 
 ### Installing
-Download or clone repository, unzip and in terminal navigate to the unzipped folder. Inside of it run: 
+
+Download or clone repository, unzip and in terminal navigate to the unzipped folder. 
+
+### Running
 
 ```
-npm install -g http-server
+npm start
 ```
 
-then
-
-```
-http-server -a localhost
-```
-
-and the app will be running on http://localhost:8080.
+The app will be running on http://localhost:8080.
