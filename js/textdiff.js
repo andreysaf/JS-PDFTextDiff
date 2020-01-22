@@ -26,13 +26,6 @@ const compareText = (text1, text2) => {
 }
 
 window.onload = () => {
-    document.getElementById('sample').onsubmit = function (e) {
-        e.preventDefault();
-        const firstPdf = '../files/TextDiff.pdf';
-        const secondPdf = '../files/TextDiffChanged.pdf';
-
-        loadPDFs(firstPdf, secondPdf);
-    };
 
     document.getElementById('url-form').onsubmit = function (e) {
         e.preventDefault();
